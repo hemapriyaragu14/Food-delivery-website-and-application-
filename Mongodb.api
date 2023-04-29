@@ -1,0 +1,61 @@
+_id: ObjectId("5f611baa82f721ecbe919d33")
+
+date: "2020-9-15" userId: ""5f5799e0786e3785adbd02ff""
+
+✓ nutrition: Object
+
+✓ calories: Object
+
+nutrientName: "Energy"
+
+unitName: "KCAL"
+
+value: 52
+
+> protein: Object
+
+> carbs: Object
+
+> fat: Object
+
+> sugar: Object
+
+> fiber: Object
+
+> sodium: Object
+
+> calcium: Object
+
+> iron: Object
+
+> cholesterol: Object
+
+> potassium: Object
+
+> vitaminA: Object
+
+> vitaminC: Object
+
+✓ meals: Array
+
+✓ 0: Object
+
+_id: ObjectId("5f611c389c685a1dd5a3cbc8")
+
+name: "Breakfast"
+
+✓ foods: Array
+
+✓0: Object
+
+_id: ObjectId("5f611c389c685a1dd5a3cbc9")
+
+name: "Apple, raw"
+
+serving: 100
+
+> nutrition: Object
+
+> usdaNutrition: Object
+
+> nutrition: Object
